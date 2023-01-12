@@ -5,6 +5,9 @@
 
 [Metaphor Based Metaheuristics](https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics)
 
+[Swarm Intelligence](https://doc.lagout.org/science/Artificial%20Intelligence/Swarm%20Intelligence/Swarm%20intelligence%20-%20James%20Kennedy.pdf)
+
 ## Notebooks
 [Random Walk](https://colab.research.google.com/drive/1PqagE494INfj4bHWehOujGNIHk6VI9mB?usp=sharing)
 [PSO](https://colab.research.google.com/drive/1E-DTi1Det6LR7wLEJavUyrw3ZEUskKBe?usp=sharing)
+
