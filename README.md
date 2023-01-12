@@ -7,6 +7,9 @@
 
 [Swarm Intelligence](https://doc.lagout.org/science/Artificial%20Intelligence/Swarm%20Intelligence/Swarm%20intelligence%20-%20James%20Kennedy.pdf)
 
+[Nano Factory](https://archive.org/details/NanoFactory)
+
+
 ## Notebooks
 [Random Walk](https://colab.research.google.com/drive/1PqagE494INfj4bHWehOujGNIHk6VI9mB?usp=sharing)
 
