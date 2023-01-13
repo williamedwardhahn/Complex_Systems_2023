@@ -9,6 +9,10 @@
 
 [Nano Factory](https://archive.org/details/NanoFactory)
 
+[Optimization](https://github.com/williamedwardhahn/ComplexSystems/blob/main/Optimization.pdf)
+
+[Machinery](https://github.com/williamedwardhahn/ComplexSystems/blob/main/MachineryLife.pdf)
+
 
 ## Notebooks
 [Random Walk](https://colab.research.google.com/drive/1PqagE494INfj4bHWehOujGNIHk6VI9mB?usp=sharing)
