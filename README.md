@@ -19,3 +19,5 @@
 
 [PSO](https://colab.research.google.com/drive/1E-DTi1Det6LR7wLEJavUyrw3ZEUskKBe?usp=sharing)
 
+[SA and GA Sudoku](https://colab.research.google.com/drive/1Xu5aQy73m0eyU134CTazEmcAFKSH4eNY?usp=sharing)
+
