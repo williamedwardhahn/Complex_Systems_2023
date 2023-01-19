@@ -13,6 +13,8 @@
 
 [Machinery](https://github.com/williamedwardhahn/ComplexSystems/blob/main/MachineryLife.pdf)
 
+[Bacteria Talking](https://www.youtube.com/watch?v=KXWurAmtf78)
+
 
 ## Notebooks
 [Random Walk](https://colab.research.google.com/drive/1PqagE494INfj4bHWehOujGNIHk6VI9mB?usp=sharing)
