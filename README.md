@@ -15,6 +15,7 @@
 
 [Bacteria Talking](https://www.youtube.com/watch?v=KXWurAmtf78)
 
+[Genetic Programming](https://www.youtube.com/watch?v=tTMpKrKkYXo)
 
 ## Notebooks
 [Random Walk](https://colab.research.google.com/drive/1PqagE494INfj4bHWehOujGNIHk6VI9mB?usp=sharing)
