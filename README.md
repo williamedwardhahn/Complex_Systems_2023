@@ -25,7 +25,7 @@
 
 [Connection Machine](https://youtube.com/playlist?list=PLWmIsQcAzRkqo1PebLbdm6o9qRAy8mvD2)
 
-
+[Zuse Tower](http://zuse.zib.de/helixTower)
 
 ## Notebooks
 [Random Walk](https://colab.research.google.com/drive/1PqagE494INfj4bHWehOujGNIHk6VI9mB?usp=sharing)
