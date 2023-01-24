@@ -27,6 +27,8 @@
 
 [Zuse Tower](http://zuse.zib.de/helixTower)
 
+[Fredkin & Toffoli](http://web.archive.org/web/20061017232512/http://www.digitalphilosophy.org/download_documents/ConservativeLogic.pdf)
+
 ## Notebooks
 [Random Walk](https://colab.research.google.com/drive/1PqagE494INfj4bHWehOujGNIHk6VI9mB?usp=sharing)
 
