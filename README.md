@@ -17,6 +17,16 @@
 
 [Genetic Programming](https://www.youtube.com/watch?v=tTMpKrKkYXo)
 
+[Feynman Lectures](https://www.youtube.com/watch?v=EKWGGDXe5MA)
+
+[Feynman Lectures Computation](https://archive.org/details/feynmanlectureso0000feyn_o9v9/page/n9/mode/2up)
+
+[Feynman Computation](https://www.amazon.com/Feynman-Computation-Frontiers-Physics-Anthony/dp/081334039X)
+
+[Connection Machine](https://youtube.com/playlist?list=PLWmIsQcAzRkqo1PebLbdm6o9qRAy8mvD2)
+
+
+
 ## Notebooks
 [Random Walk](https://colab.research.google.com/drive/1PqagE494INfj4bHWehOujGNIHk6VI9mB?usp=sharing)
 
