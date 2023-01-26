@@ -29,10 +29,15 @@
 
 [Fredkin & Toffoli](http://web.archive.org/web/20061017232512/http://www.digitalphilosophy.org/download_documents/ConservativeLogic.pdf)
 
+[OBSERVED UNIVERSALITY OF PHASE TRANSITIONS IN
+HIGH-DIMENSIONAL GEOMETRY](https://arxiv.org/pdf/0906.2530.pdf)
+
 ## Notebooks
 [Random Walk](https://colab.research.google.com/drive/1PqagE494INfj4bHWehOujGNIHk6VI9mB?usp=sharing)
 
 [PSO](https://colab.research.google.com/drive/1E-DTi1Det6LR7wLEJavUyrw3ZEUskKBe?usp=sharing)
 
 [SA and GA Sudoku](https://colab.research.google.com/drive/1Xu5aQy73m0eyU134CTazEmcAFKSH4eNY?usp=sharing)
+
+[Landscapes](https://drive.google.com/file/d/19acrbJuCv-evXp41ywIQWSsF0HIyOiZe/view?usp=sharing)
 
