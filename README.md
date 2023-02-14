@@ -32,6 +32,10 @@
 [OBSERVED UNIVERSALITY OF PHASE TRANSITIONS IN
 HIGH-DIMENSIONAL GEOMETRY](https://arxiv.org/pdf/0906.2530.pdf)
 
+[D-Wave Compressed Sensing](https://www.youtube.com/watch?v=NI0g41RWf-8)
+
+[MPCR Slides](https://docs.google.com/presentation/d/1lm0js_HbE_wC5dC-dyZ3muoyo3tIfiuStXqdzONLIO0/edit#slide=id.g8de7dbd2b_10)
+
 ## Notebooks
 [Random Walk](https://colab.research.google.com/drive/1PqagE494INfj4bHWehOujGNIHk6VI9mB?usp=sharing)
 
@@ -44,3 +48,5 @@ HIGH-DIMENSIONAL GEOMETRY](https://arxiv.org/pdf/0906.2530.pdf)
 [Fourier](https://colab.research.google.com/drive/1UJ6sSOAO0U-jL1nLKqF9rnurbEEaRPGC?usp=sharing)
 
 [Fourier FFT Conv](https://colab.research.google.com/drive/1-6eSSeR1mWRPNXRck4m8rHV4cVAsyYNL?usp=sharing)
+
+
