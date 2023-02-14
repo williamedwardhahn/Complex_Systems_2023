@@ -36,6 +36,8 @@ HIGH-DIMENSIONAL GEOMETRY](https://arxiv.org/pdf/0906.2530.pdf)
 
 [MPCR Slides](https://docs.google.com/presentation/d/1lm0js_HbE_wC5dC-dyZ3muoyo3tIfiuStXqdzONLIO0/edit#slide=id.g8de7dbd2b_10)
 
+[Oscillator Computer](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-12.pdf)
+
 ## Notebooks
 [Random Walk](https://colab.research.google.com/drive/1PqagE494INfj4bHWehOujGNIHk6VI9mB?usp=sharing)
 
