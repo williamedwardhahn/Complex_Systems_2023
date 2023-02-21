@@ -51,4 +51,6 @@ HIGH-DIMENSIONAL GEOMETRY](https://arxiv.org/pdf/0906.2530.pdf)
 
 [Fourier FFT Conv](https://colab.research.google.com/drive/1-6eSSeR1mWRPNXRck4m8rHV4cVAsyYNL?usp=sharing)
 
+[Neural Computer](https://colab.research.google.com/drive/1RLCNtXpQsZWqExiVilH3wf4xMRskj75H?usp=sharing)
+
 
