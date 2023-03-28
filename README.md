@@ -53,4 +53,6 @@ HIGH-DIMENSIONAL GEOMETRY](https://arxiv.org/pdf/0906.2530.pdf)
 
 [Neural Computer](https://colab.research.google.com/drive/1RLCNtXpQsZWqExiVilH3wf4xMRskj75H?usp=sharing)
 
+[RGB CA 1D](https://colab.research.google.com/drive/1kRA92OjxT0Nwyf-l9l2R-B3H-fKKZydN#scrollTo=pJZxr6GqaOYg)
+
 
